@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Shresth bhargava | Course: Open Source Software
+# Author:  Amaan Tanveer | Course: Open Source Software
 # Purpose: Generate a personalised open source philosophy statement
 #          by asking the user three questions interactively and saving
 #          the result to a text file.
