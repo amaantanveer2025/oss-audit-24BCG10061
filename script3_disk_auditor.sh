@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Shresth bhargava | Course: Open Source Software
+# Author: Amaan Tanveer| Course: Open Source Software
 # Purpose: Audit key system directories for permissions, ownership, and disk usage
 
 # --- Define the list of standard directories to audit ---
