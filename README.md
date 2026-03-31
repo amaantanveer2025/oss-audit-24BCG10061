@@ -42,8 +42,8 @@ Asks 4 interactive questions and generates a personalised open source philosophy
 
 ## How to Run
 ```bash
-git clone https://github.com/shresthbhargava/oss-audit-24BSA10161
-cd oss-audit-24BSA10161
+git clone https://github.com/amaantanveer2025/oss-audit-24BCG10061
+cd oss-audit-24BCG10061
 chmod +x *.sh        # make all scripts executable
 bash script1_system_identity.sh
 ```
