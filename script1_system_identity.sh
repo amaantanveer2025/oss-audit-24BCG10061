@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Shresth bhargava | Course: Open Source Software
+# Author: Amaan Tanveer | Course: Open Source Software
 # Purpose: Display a formatted system information screen for the Linux Kernel audit
 
 # --- Student information (fill these in before submission) ---
-STUDENT_NAME="Shresth bhargava"
+STUDENT_NAME=" Amaan Tanveer"
 SOFTWARE_CHOICE="Linux Kernel"
 
 # --- Collect system information using command substitution ---
