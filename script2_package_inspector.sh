@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Shresth bhargava | Course: Open Source Software
+# Author:  Amaan Tanveer | Course: Open Source Software
 # Purpose: Inspect the Linux Kernel installation and print its details and a philosophy note
  
 echo "=== FOSS Package Inspector ==="
