@@ -1,7 +1,7 @@
 # OSS Audit — Linux Kernel
 **Course:** Open Source Software | OSS NGMC  
-**Student Name:** Shresth bhargava
-**Registration Number:** 24BSA10161  
+**Student Name:** Amaan Tanveer
+**Registration Number:** 24BCG10061  
 **Chosen Software:** Linux Kernel (GPL v2)
 
 ---
