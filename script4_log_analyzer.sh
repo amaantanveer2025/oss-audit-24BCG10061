@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Shresth bhargava | Course: Open Source Software
+# Author: Amaan Tanveer| Course: Open Source Software
 # Usage: ./script4_log_analyzer.sh /path/to/logfile [keyword]
 # Example: ./script4_log_analyzer.sh /var/log/kern.log error
 
